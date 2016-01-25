@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="blaggy-logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-1133.8015"
+     inkscape:cy="77.927438"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#666666"
+       id="rect2992"
+       width="747.85712"
+       height="503.57144"
+       x="-1672.8572"
+       y="753.79077" />
+    <rect
+       style="fill:none"
+       id="rect2990"
+       width="300"
+       height="300"
+       x="-1456.4906"
+       y="851.64789"
+       inkscape:export-filename="C:\Users\Joe\Dropbox\www\blaggy\blag.gy\home\joe\public_html\wp-content\themes\blag.gy\images\flowRoot2997.png"
+       inkscape:export-xdpi="4.7999959"
+       inkscape:export-ydpi="4.7999959" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2985"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Fontdiner Swanky;-inkscape-font-specification:Fontdiner Swanky"
+       transform="matrix(9.3838188,0,0,9.3838188,14409.23,-1591.7768)"><flowRegion
+         id="flowRegion2987"><rect
+           id="rect2989"
+           width="982.85712"
+           height="657.14288"
+           x="-1714.2858"
+           y="186.6479"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Fontdiner Swanky;-inkscape-font-specification:Fontdiner Swanky" /></flowRegion><flowPara
+         id="flowPara2993">Blag.gy</flowPara></flowRoot>    <flowRoot
+       transform="matrix(8.4768212,0,0,8.4768212,13112.582,-806.95879)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Fontdiner Swanky;-inkscape-font-specification:Fontdiner Swanky"
+       id="flowRoot2997"
+       xml:space="preserve"
+       inkscape:export-xdpi="4.7999959"
+       inkscape:export-ydpi="4.7999959"><flowRegion
+         id="flowRegion2999"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Fontdiner Swanky;-inkscape-font-specification:Fontdiner Swanky"
+           y="186.6479"
+           x="-1714.2858"
+           height="657.14288"
+           width="982.85712"
+           id="rect3001" /></flowRegion><flowPara
+         id="flowPara3003">B</flowPara></flowRoot>  </g>
+</svg>
